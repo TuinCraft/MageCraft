@@ -1,0 +1,9 @@
+cactus: true
+by-players: true
+by-creepers: false
+by-environment: false
+kill-players: false
+kill-creepers: true
+all-weapons: true
+instagib-weapons:
+

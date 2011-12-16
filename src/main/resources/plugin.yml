@@ -1,0 +1,11 @@
+name: MageCraft
+
+main: nl.tuincraft.blaatz0r.MageCraft.MageCraft
+
+version: 0.1
+
+commands:
+   class:
+      description: Select a class.
+      usage: /<command> warrior|archer|mage|warlock|healer
+
